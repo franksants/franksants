@@ -5,7 +5,7 @@
 Atualmente focado em dominar o **baixo nível** e construir ferramentas de infraestrutura performáticas. 
 
 ---
-
+ 
 ## 🛠️ Stack & Workflow
 * **Language:** Rust (Main), C (Nand2Tetris)
 * **OS:** Arch Linux (i3wm)
