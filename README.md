@@ -1,3 +1,3 @@
 # Franklin Santos
 
-Student focused on low-level.
+I am focused on Systems & Network Infrastructure.
