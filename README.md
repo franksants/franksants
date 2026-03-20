@@ -1,3 +1,3 @@
 # Franklin Santos
 
-I am focused on Systems & Network Infrastructure.
+Focused on Systems and Network Infrastructure.
