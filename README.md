@@ -1,10 +1,11 @@
 # Franklin Santos
 
-## Focused on Systems and Network Infrastructure.
+Systems and Network Infrastructure.
 
-**Currently Studying**: nand2tetris > Assembly > C...
+`nand2tetris` → `Assembly` → `C` → `OS/Net` → `Performance` → `Rust unsafe` → `XDP/eBPF/DPDK`
 
-## Who i am:
-* **Name**: *Franklin Santos* or just *Frank*.
-* **Nationality**: Brazilian.
+---
 
+**Currently:** Nand2Tetris (Project 2 — ALU)  
+**Stack:** HDL, x86 Assembly, Arch Linux, Neovim  
+**Goal:** Kernel-level network infrastructure. Remote work by ~18.
