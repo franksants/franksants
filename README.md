@@ -8,4 +8,4 @@ Systems and Network Infrastructure.
 
 **Currently:** Nand2Tetris (Project 2 — ALU)  
 **Stack:** HDL, x86 Assembly, Arch Linux, Neovim  
-**Goal:** Kernel-level network infrastructure. Remote work by ~18.
+**Goal:** Kernel-level network infrastructure.
