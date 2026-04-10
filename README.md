@@ -6,6 +6,6 @@ Systems and Network Infrastructure.
 
 ---
 
-**Currently:** Nand2Tetris (Project 2 — ALU)  
+**Currently:** Nand2Tetris (Project 4 — Hack)  
 **Stack:** HDL, x86 Assembly, Arch Linux, Neovim  
 **Goal:** Kernel-level network infrastructure.
